@@ -1,2 +1,0 @@
-this is sample file on develop branch
-some new messages to develop branch
