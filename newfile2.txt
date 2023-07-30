@@ -1,1 +1,2 @@
 newfile to merge with master branch
+merge test
