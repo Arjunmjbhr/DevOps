@@ -1,2 +1,4 @@
 this file is to merge from master branch to develop branch
 some something more
+
+before git reset
