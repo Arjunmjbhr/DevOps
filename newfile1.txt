@@ -1,2 +1,2 @@
-Git reset 1
+Git reset 2
 newfile to merge with master branch
