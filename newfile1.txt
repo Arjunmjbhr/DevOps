@@ -2,3 +2,4 @@ Git reset 2
 newfile to merge with master branch
 merge test
 this is comparison session
+this is stash testing
